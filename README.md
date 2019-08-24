@@ -2,7 +2,7 @@
 
 https://www.udemy.com/course/android-uygulama-gelistirme/?couponCode=INDIR25
 
-# Önemli not: Bu eğitimde anlatılan bütün kodlar Android Studio ile de sorunsuz olarak çalışmaktadır!
+# Önemli not: Bu eğitimin çekimleri 2012 yılına aittir ama Eclipse üzerinde anlatılan bütün kodlar bugün Android Studio ile de sorunsuz olarak çalışmaktadır!
 
 - Konular örnekler üzerinde başlangıçtan alınıyor.
 - Gözden kaçırdığınız önemli ayrıntıları detayları ile görmüş olacağız.
