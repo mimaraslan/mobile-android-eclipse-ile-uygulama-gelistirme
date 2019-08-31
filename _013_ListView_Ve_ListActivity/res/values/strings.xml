@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">_013_ListView_Ve_ListActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string-array name="video_egitim_kurslari">
+        <item>Android Uygulama Geliştirme</item>
+        <item>Web Servisleri ile Android Programlama</item>
+        <item>Android Programlama için JAVA ve XML</item>
+        <item>Apple Objective-C Programlama Dili Eğitimi</item>
+        <item>Apple iPhone ve iPad Programlama Eğitimi</item>
+        <item>Web Servisleri ile iOS Programlama</item>
+        <item>Java SE - Standard Edition</item>
+        <item>JSP - JavaServer Pages</item>
+        <item>JSF - JavaServer Faces</item>
+        <item>JSF ve Java Web Teknolojileri</item>
+    </string-array>
+    <string-array name="web_adresleri">
+        <item>http://www.udemy.com/draft/33238/?previewLandingPage=1</item>
+        <item>http://www.udemy.com/draft/33239/?previewLandingPage=1</item>
+        <item>http://www.udemy.com/draft/37319/?previewLandingPage=1</item>
+        <item>http://www.udemy.com/objective-c-programlama-dili-egitimi/?previewLandingPage=1</item>
+        <item>http://www.udemy.com/apple-iphone-ve-ipad-programlama-egitimi/?previewLandingPage=1</item>
+        <item>http://www.udemy.com/draft/37263/?previewLandingPage=1</item>
+        <item>http://www.udemy.com/draft/32747/?previewLandingPage=1</item>
+        <item>http://www.udemy.com/draft/33235/?previewLandingPage=1</item>
+        <item>http://www.udemy.com/draft/33236/?previewLandingPage=1</item>
+        <item>http://www.udemy.com/draft/39430/?previewLandingPage=1</item>
+    </string-array>
+
+</resources>

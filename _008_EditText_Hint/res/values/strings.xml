@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">_007_EditText_Hint</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    
+    <string name="adisoyadi">ADI SOYADI</string>
+    <string name="kapat">KAPAT</string>
+</resources>

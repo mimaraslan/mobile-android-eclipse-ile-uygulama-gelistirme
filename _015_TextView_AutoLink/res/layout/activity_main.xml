@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"
+        tools:context=".MainActivity" />
+    
+    
+        <TextView
+        android:id="@+id/txtEposta"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:autoLink="email"
+        android:text="Eposta: mimaraslan@gmail.com"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/txtTelefon"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:autoLink="phone"
+        android:text="Telefon no: 00380930666334"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/txWebAdresi"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:autoLink="web"
+        android:text="Web Adresi: www.mimaraslan.com"
+        android:textSize="16sp" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/txtAdres"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:autoLink="map"
+        android:text="Adres: 4 New York Plaza, New York, NY 10004"
+        android:textSize="16sp" >
+    </TextView>
+    
+
+</LinearLayout>

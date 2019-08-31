@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"
+        tools:context=".MainActivity" />
+
+    <Button
+        android:id="@+id/btnKoseli"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/round_button"
+        android:text="Köşeli Düğme" />
+
+    <Button
+        android:id="@+id/btnOval"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/oval_button"
+        android:text="Oval Düğme" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/mavi"
+        android:layout_width="112dp"
+        android:layout_height="30dp"
+        android:contentDescription="AÇIKLAMA"
+        android:src="@drawable/button" />
+
+     <Button android:id="@+id/next_button"
+     		android:layout_width="wrap_content"
+     		android:layout_height="wrap_content"
+     		android:text="DENEME"
+     		android:background="@drawable/bizim_dugme_zemin"/>
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">_011_Layouts_Yerlesimler</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="kitap">ANDROID</string>
+    <string name="parogramlama">PROGRAMLAMA GELİŞTİRME</string>
+    
+    
+</resources>

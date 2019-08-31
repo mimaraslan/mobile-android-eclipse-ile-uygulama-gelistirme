@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arabalar>
+     <araba>            
+             <marka>MERCEDES</marka>
+             <model>E-Serisi Sedan</model>
+             <renk>Gri</renk>
+    </araba>
+    <araba>
+             <marka>BMW</marka>
+             <model>6 Serisi Cabrio</model>
+             <renk>Siyah</renk>
+    </araba>
+    <araba>
+             <marka>ANADOL</marka>
+             <model>Otosan 500</model>
+             <renk>Beyaz</renk>
+    </araba>
+    <araba>
+             <marka>TOYOTA</marka>
+             <model>Corolla</model>
+             <renk>Mavi</renk>
+    </araba>
+    <araba>
+        <marka>ABC</marka>
+        <model>def</model>
+        <renk>Yesil</renk>
+    </araba>
+</arabalar>
+
+
+

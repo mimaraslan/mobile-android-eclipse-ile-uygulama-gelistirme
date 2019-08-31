@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+       android:background="@drawable/arka_zemin">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/hello_world"
+        tools:context=".MainActivity" />
+
+   <ImageView
+       android:id="@+id/ivBaglantiSimgesi"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_below="@+id/textView1"
+       android:layout_marginTop="17dp"
+       android:src="@drawable/baglanti_yok"
+       tools:ignore="UnknownIdInLayout,ContentDescription" />
+
+    <TextView
+        android:id="@+id/txtBaglantiDurumu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/ivBaglantiSimgesi"
+        android:gravity="center"
+        android:padding="15dip"
+        android:text="@string/baglanti_yok"
+        android:textColor="#FF0F2F"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+    
+</RelativeLayout>

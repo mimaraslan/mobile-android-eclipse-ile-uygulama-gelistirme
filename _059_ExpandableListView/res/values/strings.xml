@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Expandable ListView</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="osmanli_imparatorlugu">OSMANLI İMPARATORLUĞU</string>
+    <string name="todo">Resimler Gelecek</string>
+ 
+</resources>

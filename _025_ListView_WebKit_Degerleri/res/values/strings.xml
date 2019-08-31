@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">_023_ListView_WebKit_Degerleri</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string-array name="sosyalaglar">
+        <item >Facebook</item>
+        <item >Twitter</item>
+        <item >Google+</item>
+        <item >Udemy</item>
+    </string-array>
+    <string-array name="web_adresleri">
+        <item >http://www.facebook.com/mimaraslan</item>
+        <item >https://twitter.com/mimaraslan</item>
+        <item >http://goo.gl/uU5U2</item>
+        <item >https://www.udemy.com/u/mimaraslan/</item>
+    </string-array>
+    
+    
+</resources>

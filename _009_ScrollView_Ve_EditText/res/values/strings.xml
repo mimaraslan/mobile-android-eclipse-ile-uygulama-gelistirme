@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">_010_ScrollView_Ve_EditText</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    
+    <string name="personeladi">Personel Adı</string>
+    <string name="parola">Parola</string>
+    <string name="adres">Adres</string>
+    <string name="telefon">Telefon No</string>
+    <string name="coksatirliyazi">Çok Satırlı Yazı</string>
+    <string name="ondaliklisayi">Virgüllü Sayı</string>
+    <string name="sayi">Normal Sayı</string>
+    <string name="zaman">Zaman Saat</string>
+    <string name="tarih">Tarih</string>
+    <string name="eposta">E-Posta</string>
+    <string name="onayver">ONAY VER</string>
+    <string name="nomaltextview">Normal Girdi Kutucuğu</string>
+    
+    
+</resources>

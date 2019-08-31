@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">_048_InternetBaglantiKontrolu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="baglanti_yok">İnternet bağlantısı yok</string>
+    <string name="baglanti_var">İnternet bağlantısı var</string>
+    
+</resources>

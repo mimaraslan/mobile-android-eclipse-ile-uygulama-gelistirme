@@ -1,0 +1,7 @@
+<resources>
+
+    <color name="label_color">#F00</color>
+    <color name="phrase_color">#FFF</color>
+    <color name="locale_color">#0F0</color>
+
+</resources>

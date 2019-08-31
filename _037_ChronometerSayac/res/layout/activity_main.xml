@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+     
+    android:background="@drawable/arkazemin"
+    android:gravity="center_horizontal"
+    android:padding="4dip"
+     >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"
+        tools:context=".MainActivity" />
+
+    <Chronometer
+        android:id="@+id/chronometer1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chronometer" />
+
+    <Button
+        android:id="@+id/start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="chronometer_start" >
+
+        <requestFocus />
+    </Button>
+
+    <Button
+        android:id="@+id/stop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="chronometer_stop" >
+    </Button>
+
+    <Button
+        android:id="@+id/reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="chronometer_reset" >
+    </Button>
+
+    <Button
+        android:id="@+id/set_format"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="chronometer_set_format" >
+    </Button>
+
+    <Button
+        android:id="@+id/clear_format"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="chronometer_clear_format" >
+    </Button>
+
+    
+    
+</LinearLayout>
